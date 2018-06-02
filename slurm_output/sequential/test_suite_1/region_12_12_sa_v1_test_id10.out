@@ -1,0 +1,5 @@
+SA parameters: MAX_ITERATIONS 5000; MAX_TEMP 10000; NUMBER_OF_DISTRICTS 4
+SA started
+SA completed
+TEST_ID_NUMBER 1; REGION_ID region_12_12
+start time 1525511795.3278103 seconds; end time 1525513655.48033 seconds; running time 1860.1525197029114 seconds

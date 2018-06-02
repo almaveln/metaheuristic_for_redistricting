@@ -1,0 +1,230 @@
+{
+  "rows": 4,
+  "units": [
+    {
+      "neighbors": [
+        2,
+        5
+      ],
+      "is_on_region_border": true,
+      "pop": 100,
+      "id": 1,
+      "registration": {
+        "rep": 0.3,
+        "dem": 0.7
+      }
+    },
+    {
+      "neighbors": [
+        1,
+        3,
+        6
+      ],
+      "is_on_region_border": true,
+      "pop": 100,
+      "id": 2,
+      "registration": {
+        "rep": 0.4,
+        "dem": 0.6
+      }
+    },
+    {
+      "neighbors": [
+        2,
+        4,
+        7
+      ],
+      "is_on_region_border": true,
+      "pop": 100,
+      "id": 3,
+      "registration": {
+        "rep": 0.3,
+        "dem": 0.7
+      }
+    },
+    {
+      "neighbors": [
+        3,
+        8
+      ],
+      "is_on_region_border": true,
+      "pop": 100,
+      "id": 4,
+      "registration": {
+        "rep": 0.5,
+        "dem": 0.5
+      }
+    },
+    {
+      "neighbors": [
+        1,
+        6,
+        9
+      ],
+      "is_on_region_border": true,
+      "pop": 100,
+      "id": 5,
+      "registration": {
+        "rep": 0.4,
+        "dem": 0.6
+      }
+    },
+    {
+      "neighbors": [
+        2,
+        5,
+        7,
+        10
+      ],
+      "is_on_region_border": false,
+      "pop": 100,
+      "id": 6,
+      "registration": {
+        "rep": 0.7,
+        "dem": 0.3
+      }
+    },
+    {
+      "neighbors": [
+        3,
+        6,
+        8,
+        11
+      ],
+      "is_on_region_border": false,
+      "pop": 100,
+      "id": 7,
+      "registration": {
+        "rep": 0.6,
+        "dem": 0.4
+      }
+    },
+    {
+      "neighbors": [
+        4,
+        7,
+        12
+      ],
+      "is_on_region_border": true,
+      "pop": 100,
+      "id": 8,
+      "registration": {
+        "rep": 0.3,
+        "dem": 0.7
+      }
+    },
+    {
+      "neighbors": [
+        5,
+        10,
+        13
+      ],
+      "is_on_region_border": true,
+      "pop": 100,
+      "id": 9,
+      "registration": {
+        "rep": 0.6,
+        "dem": 0.4
+      }
+    },
+    {
+      "neighbors": [
+        6,
+        9,
+        11,
+        14
+      ],
+      "is_on_region_border": false,
+      "pop": 100,
+      "id": 10,
+      "registration": {
+        "rep": 0.4,
+        "dem": 0.6
+      }
+    },
+    {
+      "neighbors": [
+        7,
+        10,
+        12,
+        15
+      ],
+      "is_on_region_border": false,
+      "pop": 100,
+      "id": 11,
+      "registration": {
+        "rep": 0.7,
+        "dem": 0.3
+      }
+    },
+    {
+      "neighbors": [
+        8,
+        11,
+        16
+      ],
+      "is_on_region_border": true,
+      "pop": 100,
+      "id": 12,
+      "registration": {
+        "rep": 0.5,
+        "dem": 0.5
+      }
+    },
+    {
+      "neighbors": [
+        9,
+        14
+      ],
+      "is_on_region_border": true,
+      "pop": 100,
+      "id": 13,
+      "registration": {
+        "rep": 0.5,
+        "dem": 0.5
+      }
+    },
+    {
+      "neighbors": [
+        10,
+        13,
+        15
+      ],
+      "is_on_region_border": true,
+      "pop": 100,
+      "id": 14,
+      "registration": {
+        "rep": 0.7,
+        "dem": 0.3
+      }
+    },
+    {
+      "neighbors": [
+        11,
+        14,
+        16
+      ],
+      "is_on_region_border": true,
+      "pop": 100,
+      "id": 15,
+      "registration": {
+        "rep": 0.7,
+        "dem": 0.3
+      }
+    },
+    {
+      "neighbors": [
+        12,
+        15
+      ],
+      "is_on_region_border": true,
+      "pop": 100,
+      "id": 16,
+      "registration": {
+        "rep": 0.7,
+        "dem": 0.3
+      }
+    }
+  ],
+  "columns": 4
+}
